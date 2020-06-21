@@ -10,7 +10,7 @@ import {
   TouchableOpacity,
 } from "react-native";
 
-import api from './src/services/api';
+import api from './services/api';
 
 export default function App() {
 
